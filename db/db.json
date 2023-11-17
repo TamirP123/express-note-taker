@@ -1,12 +1,1 @@
-[
-    {
-        "title": "Note 1 Testing",
-        "text": "Hello",
-        "id": "0fb1dcc0-84f9-42aa-82fa-9ef895d419d0"
-    },
-    {
-        "title": "Note 2 Testing",
-        "text": "This is test 2",
-        "id": "7912077c-0844-4dbe-953a-e4e016dd6821"
-    }
-]
+[{"title":"Test 1","text":"Hello","id":"a0c8cfc1-dc47-453c-8fa1-7246ba527e27"},{"title":"Test 2","text":"Hello","id":"853d87bf-2693-44fa-badd-8cbc309d54eb"}]
